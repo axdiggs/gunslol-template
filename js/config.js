@@ -17,7 +17,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   // FILES — place them in assets/ with these exact names
   // ----------------------------------------------------------
-  avatar:              "assets/avatar.jpg",
+  avatar:              "assets/avtar.jpg",
   backgroundVideo:     "assets/background.mp4",
   customCursor:        "assets/cursor.png",
   customCursorHotspot: "0 0",    // "0 0" = tip of the cursor (top-left corner)
@@ -46,13 +46,13 @@ const CONFIG = {
   // ----------------------------------------------------------
   // DISCORD (static — no API, edit manually)
   // ----------------------------------------------------------
-  discordUsername: "Jofagg_",
-  discordStatus:   "acalme-se vadia...",
-  discordAvatar:   "assets/discord-avatar.jpg",
+  discordUsername: "crazy.axdi",
+  discordStatus:   "god played harder😔",
+  discordAvatar:   "assets/dcav.jpg",
   discordAvatarSize:   "74px",
   discordAvatarBorder: "2px solid rgba(200, 27, 27, 0.15)",
   // status: "online" | "idle" | "dnd" | "offline"
-  discordPresenceStatus: "online",
+  discordPresenceStatus: "dnd",
 
   // ----------------------------------------------------------
   // SOCIAL LINKS
@@ -62,7 +62,6 @@ const CONFIG = {
     { name: "Instagram", url: "https://instagram.com/user",         icon: "assets/icons/instagram.png" },
     { name: "Spotify",   url: "https://open.spotify.com/user", icon: "assets/icons/spotify.png"   },
     { name: "TikTok",    url: "https://www.tiktok.com/user",           icon: "assets/icons/tiktok.png"    },
-    { name: "OnlyFans",  url: "https://onlyfans.com/user",          icon: "assets/icons/onlyfans.png"  },
     { name: "Github",  url: "https://github.com/user",          icon: "assets/icons/github.png"  },
 ,
   ],
