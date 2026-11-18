@@ -18,7 +18,7 @@ const CONFIG = {
   // FILES — place them in assets/ with these exact names
   // ----------------------------------------------------------
   avatar:              "assets/avtar.jpg",
-  backgroundVideo:     "assets/back.mp4",
+  backgroundVideo:     "assets/MMV-The-Fragrant-SnapYT.App.mp4",
   customCursor:        "assets/cursor.png",
   customCursorHotspot: "0 0",    // "0 0" = tip of the cursor (top-left corner)
 
