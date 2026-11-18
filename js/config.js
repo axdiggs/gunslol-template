@@ -63,7 +63,7 @@ const CONFIG = {
     { name: "Spotify",   url: "https://open.spotify.com/user", icon: "assets/icons/spotify.png"   },
     { name: "TikTok",    url: "https://www.tiktok.com/user",           icon: "assets/icons/tiktok.png"    },
     { name: "Github",  url: "https://github.com/user",          icon: "assets/icons/github.png"  },
-,
+
   ],
   iconSize:         "36px",
   iconBorderRadius: "8px",
