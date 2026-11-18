@@ -27,7 +27,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   avatarSize:       "118px",
   // animated Discord-style decoration — leave "" to disable
-  avatarDecoration: "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png⁠",
+  avatarDecoration: "avatarDecoration: "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png",
 
   // ----------------------------------------------------------
   // BADGES / ROLES
