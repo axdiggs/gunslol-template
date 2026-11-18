@@ -7,11 +7,11 @@ const CONFIG = {
   // ----------------------------------------------------------
   // PROFILE
   // ----------------------------------------------------------
-  profileName:   "𝔍𝔢𝔣𝔢𝔯",      // name shown on the card
-  nameTooltip:   "Oñooo",         // tooltip on hover over the name
+  profileName:   "𝓐𝔁𝓭𝓲...₰",      // name shown on the card
+  nameTooltip:   "zeit",         // tooltip on hover over the name
   nameEffect:    "noise",         // "noise" = TV interference | "none" = plain text
-  statusText:    "🏃🏿‍➡️ Isso é muita areia hoje...", // text below the name (typewriter effect)
-  tabTitle:      "@𝔍𝔢𝔣𝔢𝔯",      // animated browser tab title
+  statusText:    "printing big", // text below the name (typewriter effect)
+  tabTitle:      "@𝓐𝔁𝓭𝓲...₰⁠",      // animated browser tab title
   entrySymbol:   "⛧",            // symbol shown on the entry screen
 
   // ----------------------------------------------------------
@@ -27,7 +27,7 @@ const CONFIG = {
   // ----------------------------------------------------------
   avatarSize:       "118px",
   // animated Discord-style decoration — leave "" to disable
-  avatarDecoration: "https://cdn.discordapp.com/avatar-decoration-presets/a_da532f804b47f1681006c2996eb07b2a.png",
+  avatarDecoration: "https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png⁠",
 
   // ----------------------------------------------------------
   // BADGES / ROLES
@@ -37,7 +37,7 @@ const CONFIG = {
     { icon: "assets/badges/owner.png",    label: "Owner"    },
     { icon: "assets/badges/verified.png", label: "Verified" },
     { icon: "assets/badges/partner.png",  label: "Partner"  },
-    { icon: "assets/badges/hate.gif",     label: "hate"     },
+    { icon: "assets/badges/hate.gif",     label: "dev"     },
   ],
   badgeSize:                "22px",
   badgeContainerBackground: "rgba(172, 200, 255, 0.08)",
